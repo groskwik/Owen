@@ -13,14 +13,14 @@ a sample of X).
 
 gamma is also known as the confidence level.
 
-## Reference:
+## Reference
 Factors for one-sided tolerance limits:
 https://www.nrc.gov/docs/ML1403/ML14031A495.pdf
 
 NIST/SEMATECH e-Handbook of Statistical Methods
 https://www.itl.nist.gov/div898/handbook/prc/section2/prc263.htm
 
-## Credits:
+## Credits
 Thanks to University of Texas and their Source Code CDFLIB90:
 https://biostatistics.mdanderson.org/SoftwareDownload/SingleSoftware.aspx?Software_Id=21
 
@@ -29,8 +29,7 @@ http://sense.net/~egan/hpgcc/
 
 And of course thanks to the HPGCC team!
 
-
-## Installation:
+## Installation
 First Install the ARM toolbox library (which is needed to run ARM code)
 https://www.hpcalc.org/details/6090
 
@@ -39,8 +38,7 @@ Install the Owen Library, Owen.lib in the port of your choice.
 
 The Owen library consist of one single program "Owen"
 
-
-## Example:
+## Example
 An engineer is doing 50 measurements of the thickness of a component. The mean value is 2.3 mm and the
 standard deviation is 0.2 mm.
 
