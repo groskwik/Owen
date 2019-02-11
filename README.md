@@ -1,6 +1,9 @@
 # Owen
 Factors for one-sided tolerance limits (aka Owen k-factors)
-Groskwik, February 9, 2019
+
+For use with HP 50G or HP 49G+
+
+February 9, 2019
 
 ## Abstract
 Let's assume that X is a random variable with a normal distribution.
