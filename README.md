@@ -1,7 +1,7 @@
 # Owen
 ## Factors for one-sided tolerance limits (aka Owen k-factors)
 
-For use with HP 50G or HP 49G+
+For use with HP 50G or HP 49G+ Calculator
 
 February 9, 2019
 
