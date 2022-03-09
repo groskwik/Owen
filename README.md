@@ -30,6 +30,8 @@ And of course thanks to the HPGCC team!
 
 ## Installation
 
+First, check that you have at least 104Kb of free ram on the HP 50G.
+
 ### Install the ARM toolbox library
 
 First Install the ARM toolbox library (which is needed to run ARM code)
