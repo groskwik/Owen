@@ -44,8 +44,8 @@ https://www.hpcalc.org/details/6090
 
 ![ARM](http://sense.net/~egan/hpgcc/pics/armtool2.gif "ARM Toolbox 2")
 
-Now press ![ARM](http://sense.net/~egan/hpgcc/pics/botton_eval.gif "ARM Toolbox 2") , then ![ARM](http://sense.net/~egan/hpgcc/pics/botton_on.gif "ARM Toolbox b") +.
-![ARM](http://sense.net/~egan/hpgcc/pics/button_f3.gif"ARM Toolbox 3") 
+Now press ![ARM](http://sense.net/~egan/hpgcc/pics/botton_eval.gif "ARM Toolbox 2") , then ![ARM](http://sense.net/~egan/hpgcc/pics/botton_on.gif "ARM Toolbox b") +
+![ARM](http://sense.net/~egan/hpgcc/pics/button_f3.gif "ARM Toolbox 3") 
 
 4. Verify that the ARM Toolbox is installed by pressing ![ARM](http://sense.net/~egan/hpgcc/pics/button_right.gif "ARM Toolbox r") ![ARM](http://sense.net/~egan/hpgcc/pics/button_two.gif "ARM Toolbox 2") ![ARM](http://sense.net/~egan/hpgcc/pics/soft_armto.gif "ARM Toolbox soft")
 
