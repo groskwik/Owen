@@ -29,8 +29,24 @@ http://sense.net/~egan/hpgcc/
 And of course thanks to the HPGCC team!
 
 ## Installation
+
+### Install the ARM toolbox library
+
 First Install the ARM toolbox library (which is needed to run ARM code)
 https://www.hpcalc.org/details/6090
+
+1. Copy the file ARMToolbox/SETUP.BIN to your HP 50g.
+2. On the HP 50g put the number 2 on the stack:
+
+![ARM](http://sense.net/~egan/hpgcc/pics/armtool1.gif "ARM Toolbox 1")
+
+3. put SETUP.BIN on the stack, not 'SETUP.BIN'.  Your 50g should look like this:
+
+![ARM](http://sense.net/~egan/hpgcc/pics/armtool2.gif "ARM Toolbox 2")
+
+Now press ![ARM](http://sense.net/~egan/hpgcc/pics/botton_eval.gif "ARM Toolbox 2") , then ![ARM](http://sense.net/~egan/hpgcc/pics/botton_on.gif "ARM Toolbox 2") +.
+
+4. Verify that the ARM Toolbox is installed by pressing:
 
 Put the directory EXTEND at the root of your SD card.
 Install the Owen Library, Owen.lib in the port of your choice.
